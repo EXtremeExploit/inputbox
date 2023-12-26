@@ -8,5 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "EXtremeExploit",
-  "license": "LGPL-3.0-only"
+  "license": "LGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXtremeExploit/inputbox.git"
+  }
 }
