@@ -1,0 +1,12 @@
+{
+  "name": "@extremeexploit/inputbox",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "A library to separate stdin and stdout in a NodeJS terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EXtremeExploit",
+  "license": "LGPL-3.0-only"
+}
