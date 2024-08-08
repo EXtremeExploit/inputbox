@@ -2,8 +2,6 @@
 
 A library that allows you to use both stdin and stdout without worrying about them overlapping
 
-**NOTE:** Currently moving using the arrow keys isnt supported
-
 # Example
 ```js
 import inputBox from '@extremeexploit/inputbox';
