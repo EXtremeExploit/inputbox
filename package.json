@@ -1,6 +1,6 @@
 {
   "name": "@extremeexploit/inputbox",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "type": "module",
   "description": "A library to separate stdin and stdout in a NodeJS terminal",
   "main": "index.js",
